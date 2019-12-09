@@ -54,7 +54,7 @@
 - ### 产品核心流程图
 ![产品核心流程图](https://github.com/wemching/API_ML_AI/blob/master/image/%E4%BA%A7%E5%93%81%E6%A0%B8%E5%BF%83%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 
-- ### 产品交互展示
+- ### [产品原型交互展示]( https://nfunm060.gitee.io/api_ml_am)
 
 ---
 ## 三、产品的API使用
@@ -92,6 +92,9 @@
 ---
 ## 附件（链接）
 
-- ### 产品原型交互展示
-- ### 产品原型文档下载
+- ### [产品原型交互展示]( https://nfunm060.gitee.io/api_ml_am)
+- ### [产品原型文档下载](https://github.com/wemching/API_FINAL_APP)
 - ### API文档
+#### [百度AI的植物识别](https://ai.baidu.com/ai-doc/IMAGERECOGNITION/Mk3bcxe9i)
+#### [百度AI的图像去雾](https://ai.baidu.com/ai-doc/IMAGEPROCESS/8k3bclp1l)
+#### [百度AI的短语音识别](https://ai.baidu.com/ai-doc/SPEECH/Ek39uxgre)
