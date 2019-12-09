@@ -43,48 +43,48 @@
 ## 二、产品设计
 
 - ### 产品架构图
-![产品架构图](https://github.com/wemching/API_ML_AI/blob/master/%E4%BA%A7%E5%93%81%E6%9E%B6%E6%9E%84%E5%9B%BE.png)
+![产品架构图](https://github.com/wemching/API_ML_AI/blob/master/image/%E4%BA%A7%E5%93%81%E6%9E%B6%E6%9E%84%E5%9B%BE.png)
 
 - ### 产品信息结构图
-![产品信息结构图](https://github.com/wemching/API_ML_AI/blob/master/%E4%BA%A7%E5%93%81%E4%BF%A1%E6%81%AF%E7%BB%93%E6%9E%84%E5%9B%BE.png)
+![产品信息结构图](https://github.com/wemching/API_ML_AI/blob/master/image/%E4%BA%A7%E5%93%81%E4%BF%A1%E6%81%AF%E7%BB%93%E6%9E%84%E5%9B%BE.png)
 
 - ### 产品功能结构图
-![产品功能结构图](https://github.com/wemching/API_ML_AI/blob/master/%E4%BA%A7%E5%93%81%E5%8A%9F%E8%83%BD%E7%BB%93%E6%9E%84%E5%9B%BE.png)
+![产品功能结构图](https://github.com/wemching/API_ML_AI/blob/master/image/%E4%BA%A7%E5%93%81%E5%8A%9F%E8%83%BD%E7%BB%93%E6%9E%84%E5%9B%BE.png)
 
 - ### 产品核心流程图
-![产品核心流程图](https://github.com/wemching/API_ML_AI/blob/master/%E4%BA%A7%E5%93%81%E6%A0%B8%E5%BF%83%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
+![产品核心流程图](https://github.com/wemching/API_ML_AI/blob/master/image/%E4%BA%A7%E5%93%81%E6%A0%B8%E5%BF%83%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 
-- ### 产品交互展示
+- ### [产品原型交互展示]( https://nfunm060.gitee.io/api_ml_am)
 
 ---
 ## 三、产品的API使用
 
 - ### 产品中API的调用示例
 #### 1. 短语音识别API流程示意图<br></br>
-![语音识别](https://github.com/wemching/API_ML_AI/blob/master/%E7%9F%AD%E8%AF%AD%E9%9F%B3API.png)
+![语音识别](https://github.com/wemching/API_ML_AI/blob/master/image/%E7%9F%AD%E8%AF%AD%E9%9F%B3API.png)
 #### 2. 图像识别API流程示意图
-![图像识别](https://github.com/wemching/API_ML_AI/blob/master/%E5%9B%BE%E5%83%8F%E8%AF%86%E5%88%ABAPI.png)
+![图像识别](https://github.com/wemching/API_ML_AI/blob/master/image/%E5%9B%BE%E5%83%8F%E8%AF%86%E5%88%ABAPI.png)
 #### 3. 图像去雾API流程示意图
-![图像去雾](https://github.com/wemching/API_ML_AI/blob/master/%E5%9B%BE%E5%83%8F%E5%8E%BB%E9%9B%BEAPI.png)
+![图像去雾](https://github.com/wemching/API_ML_AI/blob/master/image/%E5%9B%BE%E5%83%8F%E5%8E%BB%E9%9B%BEAPI.png)
 #### 4. 图像清晰度增强API流程示意图
-![图像清晰度](https://github.com/wemching/API_ML_AI/blob/master/%E5%9B%BE%E5%83%8F%E6%B8%85%E6%99%B0%E5%BA%A6.png)
+![图像清晰度](https://github.com/wemching/API_ML_AI/blob/master/image/%E5%9B%BE%E5%83%8F%E6%B8%85%E6%99%B0%E5%BA%A6.png)
 
 - ### API的使用比较
 #### 1. 价格比较
 - 百度AI的植物识别<br></br>
-![植物识别](https://github.com/wemching/API_ML_AI/blob/master/%E7%99%BE%E5%BA%A6AI%E6%A4%8D%E7%89%A9%E8%AF%86%E5%88%AB.png)
+![植物识别](https://github.com/wemching/API_ML_AI/blob/master/image/%E7%99%BE%E5%BA%A6AI%E6%A4%8D%E7%89%A9%E8%AF%86%E5%88%AB.png)
 - 阿里云的图像识别<br></br>
-![阿里云](https://github.com/wemching/API_ML_AI/blob/master/%E9%98%BF%E9%87%8C%E4%BA%91%E5%9B%BE%E5%83%8F%E8%AF%86%E5%88%AB.png)
+![阿里云](https://github.com/wemching/API_ML_AI/blob/master/image/%E9%98%BF%E9%87%8C%E4%BA%91%E5%9B%BE%E5%83%8F%E8%AF%86%E5%88%AB.png)
 - 腾讯云的图像识别<br></br>
-![腾讯云](https://github.com/wemching/API_ML_AI/blob/master/%E8%85%BE%E8%AE%AF%E4%BA%91%E5%9B%BE%E5%83%8F%E8%AF%86%E5%88%AB.png)
+![腾讯云](https://github.com/wemching/API_ML_AI/blob/master/image/%E8%85%BE%E8%AE%AF%E4%BA%91%E5%9B%BE%E5%83%8F%E8%AF%86%E5%88%AB.png)
 
 #### 2. 种类比较
 - 百度AI<br></br>
-![百度AI](https://github.com/wemching/API_ML_AI/blob/master/%E7%99%BE%E5%BA%A6AI.png)
+![百度AI](https://github.com/wemching/API_ML_AI/blob/master/image/%E7%99%BE%E5%BA%A6AI.png)
 - 阿里云<br></br>
-![阿里云](https://github.com/wemching/API_ML_AI/blob/master/%E9%98%BF%E9%87%8C%E4%BA%91.png)
+![阿里云](https://github.com/wemching/API_ML_AI/blob/master/image/%E9%98%BF%E9%87%8C%E4%BA%91.png)
 - 腾讯云<br></br>
-![腾讯云](https://github.com/wemching/API_ML_AI/blob/master/%E8%85%BE%E8%AE%AF%E4%BA%91.png)
+![腾讯云](https://github.com/wemching/API_ML_AI/blob/master/image/%E8%85%BE%E8%AE%AF%E4%BA%91.png)
 
 - 对于价格，百度AI平台的是最便宜的。同时百度植物识别API会提供每日500免费调用额度。
 - 对于种类，百度AI平台细分的识别种类更多，更加专门化、专业化。本产品主打植物识别，更应调用百度AI的植物识别API；同时本产品中调用的百度AI中的图像清晰度加强API，阿里云平台暂时没有的；图像去雾功能为百度AI平台独有的。
@@ -92,6 +92,9 @@
 ---
 ## 附件（链接）
 
-- ### 产品原型交互展示
-- ### 产品原型文档下载
+- ### [产品原型交互展示]( https://nfunm060.gitee.io/api_ml_am)
+- ### [产品原型文档下载](https://github.com/wemching/API_FINAL_APP)
 - ### API文档
+#### [百度AI的植物识别](https://ai.baidu.com/ai-doc/IMAGERECOGNITION/Mk3bcxe9i)
+#### [百度AI的图像去雾](https://ai.baidu.com/ai-doc/IMAGEPROCESS/8k3bclp1l)
+#### [百度AI的短语音识别](https://ai.baidu.com/ai-doc/SPEECH/Ek39uxgre)
