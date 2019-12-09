@@ -56,19 +56,19 @@
 
 - ### [产品原型交互展示]( https://nfunm060.gitee.io/api_ml_am)
 #### 登陆授权页面<br></br>
-[登陆授权页面](https://github.com/wemching/API_ML_AI/blob/master/image/%E7%99%BB%E9%99%86%E6%8E%88%E6%9D%83.png)
+![登陆授权页面](https://github.com/wemching/API_ML_AI/blob/master/image/%E7%99%BB%E9%99%86%E6%8E%88%E6%9D%83.png)
 #### 1.识别页面<br></br>
-[识别页面](https://github.com/wemching/API_ML_AI/blob/master/image/1.%E8%AF%86%E5%88%AB.png)
+![识别页面](https://github.com/wemching/API_ML_AI/blob/master/image/1.%E8%AF%86%E5%88%AB.png)
 #### 1.1.拍照识别页面<br></br>
-[拍照识别页面](https://github.com/wemching/API_ML_AI/blob/master/image/1.1%E6%8B%8D%E7%85%A7%E8%AF%86%E5%88%AB.png)
+![拍照识别页面](https://github.com/wemching/API_ML_AI/blob/master/image/1.1%E6%8B%8D%E7%85%A7%E8%AF%86%E5%88%AB.png)
 #### 1.2.语音识别页面<br></br>
-[语音识别页面](https://github.com/wemching/API_ML_AI/blob/master/image/1.2%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB.png)
+![语音识别页面](https://github.com/wemching/API_ML_AI/blob/master/image/1.2%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB.png)
 #### 2.科普世界页面<br></br>
-[科普世界页面](https://github.com/wemching/API_ML_AI/blob/master/image/2.%E7%A7%91%E6%99%AE%E4%B8%96%E7%95%8C.png)
+![科普世界页面](https://github.com/wemching/API_ML_AI/blob/master/image/2.%E7%A7%91%E6%99%AE%E4%B8%96%E7%95%8C.png)
 #### 3.打扮页面<br></br>
-[打扮页面](https://github.com/wemching/API_ML_AI/blob/master/image/3.%E6%89%93%E6%89%AE.png)
+![打扮页面](https://github.com/wemching/API_ML_AI/blob/master/image/3.%E6%89%93%E6%89%AE.png)
 #### 4.个人中心页面<br></br>
-[个人中心页面](https://github.com/wemching/API_ML_AI/blob/master/image/4.%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83.png)
+![个人中心页面](https://github.com/wemching/API_ML_AI/blob/master/image/4.%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83.png)
 ---
 ## 三、产品的API使用
 
