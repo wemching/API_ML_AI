@@ -46,13 +46,13 @@
 ![产品架构图](https://github.com/wemching/API_ML_AI/blob/master/%E4%BA%A7%E5%93%81%E6%9E%B6%E6%9E%84%E5%9B%BE.png)
 
 - ### 产品信息结构图
-![产品信息结构图](https://images.gitee.com/uploads/images/2019/1208/220353_f684a612_1831522.png "屏幕截图.png")
+![产品信息结构图](https://github.com/wemching/API_ML_AI/blob/master/%E4%BA%A7%E5%93%81%E4%BF%A1%E6%81%AF%E7%BB%93%E6%9E%84%E5%9B%BE.png)
 
 - ### 产品功能结构图
-![产品功能结构图](https://images.gitee.com/uploads/images/2019/1208/221631_1f0b461d_1831522.png "屏幕截图.png")
+![产品功能结构图](https://github.com/wemching/API_ML_AI/blob/master/%E4%BA%A7%E5%93%81%E5%8A%9F%E8%83%BD%E7%BB%93%E6%9E%84%E5%9B%BE.png)
 
 - ### 产品核心流程图
-![产品核心流程图](https://images.gitee.com/uploads/images/2019/1208/225012_1afc6e1d_1831522.png "屏幕截图.png")
+![产品核心流程图](https://github.com/wemching/API_ML_AI/blob/master/%E4%BA%A7%E5%93%81%E6%A0%B8%E5%BF%83%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 
 - ### 产品交互展示
 
@@ -61,30 +61,30 @@
 
 - ### 产品中API的调用示例
 #### 1. 短语音识别API流程示意图<br></br>
-![语音识别](https://images.gitee.com/uploads/images/2019/1208/234750_03b9f543_1831522.png "屏幕截图.png")
+![语音识别](https://github.com/wemching/API_ML_AI/blob/master/%E7%9F%AD%E8%AF%AD%E9%9F%B3API.png)
 #### 2. 图像识别API流程示意图
-![图像识别](https://images.gitee.com/uploads/images/2019/1208/235451_b2b6b58d_1831522.png "屏幕截图.png")
+![图像识别](https://github.com/wemching/API_ML_AI/blob/master/%E5%9B%BE%E5%83%8F%E8%AF%86%E5%88%ABAPI.png)
 #### 3. 图像去雾API流程示意图
-![图像去雾](https://images.gitee.com/uploads/images/2019/1208/235909_63db7f1d_1831522.png "屏幕截图.png")
+![图像去雾](https://github.com/wemching/API_ML_AI/blob/master/%E5%9B%BE%E5%83%8F%E5%8E%BB%E9%9B%BEAPI.png)
 #### 4. 图像清晰度增强API流程示意图
-![图像清晰度](https://images.gitee.com/uploads/images/2019/1209/000223_a2531acf_1831522.png "屏幕截图.png")
+![图像清晰度](https://github.com/wemching/API_ML_AI/blob/master/%E5%9B%BE%E5%83%8F%E6%B8%85%E6%99%B0%E5%BA%A6.png)
 
 - ### API的使用比较
 #### 1. 价格比较
 - 百度AI的植物识别<br></br>
-![植物识别](https://images.gitee.com/uploads/images/2019/1209/003422_83803fb1_1831522.png "屏幕截图.png")
+![植物识别](https://github.com/wemching/API_ML_AI/blob/master/%E7%99%BE%E5%BA%A6AI%E6%A4%8D%E7%89%A9%E8%AF%86%E5%88%AB.png)
 - 阿里云的图像识别<br></br>
-![阿里云](https://images.gitee.com/uploads/images/2019/1209/003537_e0210bde_1831522.png "屏幕截图.png")
+![阿里云](https://github.com/wemching/API_ML_AI/blob/master/%E9%98%BF%E9%87%8C%E4%BA%91%E5%9B%BE%E5%83%8F%E8%AF%86%E5%88%AB.png)
 - 腾讯云的图像识别<br></br>
-![腾讯云](https://images.gitee.com/uploads/images/2019/1209/003702_a494beb7_1831522.png "屏幕截图.png")
+![腾讯云](https://github.com/wemching/API_ML_AI/blob/master/%E8%85%BE%E8%AE%AF%E4%BA%91%E5%9B%BE%E5%83%8F%E8%AF%86%E5%88%AB.png)
 
 #### 2. 种类比较
 - 百度AI<br></br>
-![百度AI](https://images.gitee.com/uploads/images/2019/1209/001934_c396f625_1831522.png "屏幕截图.png")
+![百度AI](https://github.com/wemching/API_ML_AI/blob/master/%E7%99%BE%E5%BA%A6AI.png)
 - 阿里云<br></br>
-![阿里云](https://images.gitee.com/uploads/images/2019/1209/002025_3d2efb48_1831522.png "屏幕截图.png")
+![阿里云](https://github.com/wemching/API_ML_AI/blob/master/%E9%98%BF%E9%87%8C%E4%BA%91.png)
 - 腾讯云<br></br>
-![腾讯云](https://images.gitee.com/uploads/images/2019/1209/002907_da8f749a_1831522.png "屏幕截图.png")
+![腾讯云](https://github.com/wemching/API_ML_AI/blob/master/%E8%85%BE%E8%AE%AF%E4%BA%91.png)
 
 - 对于价格，百度AI平台的是最便宜的。同时百度植物识别API会提供每日500免费调用额度。
 - 对于种类，百度AI平台细分的识别种类更多，更加专门化、专业化。本产品主打植物识别，更应调用百度AI的植物识别API；同时本产品中调用的百度AI中的图像清晰度加强API，阿里云平台暂时没有的；图像去雾功能为百度AI平台独有的。
