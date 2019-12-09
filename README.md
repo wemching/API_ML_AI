@@ -43,7 +43,7 @@
 ## 二、产品设计
 
 - ### 产品架构图
-![产品架构图](https://images.gitee.com/uploads/images/2019/1208/215722_a452327d_1831522.png "屏幕截图.png")
+![产品架构图](https://github.com/wemching/API_ML_AI/blob/master/%E4%BA%A7%E5%93%81%E6%9E%B6%E6%9E%84%E5%9B%BE.png)
 
 - ### 产品信息结构图
 ![产品信息结构图](https://images.gitee.com/uploads/images/2019/1208/220353_f684a612_1831522.png "屏幕截图.png")
