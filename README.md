@@ -111,7 +111,7 @@
  用户输入的语音可能无法被辨识。<br></br>
  eg.用户可能会在嘈杂的环境中输入语音，产品无法辨识用户的语音。
 ---
-## 附件（链接）
+## 附件
 
 - ### [产品原型交互展示]( https://nfunm060.gitee.io/api_ml_am)
 - ### [产品原型文档下载](https://github.com/wemching/API_FINAL_APP)
