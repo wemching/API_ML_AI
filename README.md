@@ -97,9 +97,9 @@
 - 接口描述：该请求用于识别一张图片，即对于输入的一张图片（可正常解码，且长宽比较合适），输出植物识别结果。
 - 请求URL: https://aip.baidubce.com/rest/2.0/image-classify/v1/plant
 - HTTP方法：POST
-- 请求代码示例：
+- 请求代码示例：<br></br>
 ![输入植物识别](https://images.gitee.com/uploads/images/2019/1216/142245_06f93ab4_1831522.png "屏幕截图.png")
-- 输出代码：
+- 输出代码：<br></br>
 ![输出植物识别](https://images.gitee.com/uploads/images/2019/1216/142501_f5426869_1831522.png "屏幕截图.png")
 
 - ### API的使用比较
