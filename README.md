@@ -91,6 +91,17 @@
 #### 4. 图像清晰度增强API流程示意图
 ![图像清晰度](https://github.com/wemching/API_ML_AI/blob/master/image/%E5%9B%BE%E5%83%8F%E6%B8%85%E6%99%B0%E5%BA%A6.png)
 
+- ### 使用水平
+#### 植物识别（百度AI）
+- 图像技术：植物识别api
+- 接口描述：该请求用于识别一张图片，即对于输入的一张图片（可正常解码，且长宽比较合适），输出植物识别结果。
+- 请求URL: https://aip.baidubce.com/rest/2.0/image-classify/v1/plant
+- HTTP方法：POST
+- 请求代码示例：
+![输入植物识别](https://images.gitee.com/uploads/images/2019/1216/142245_06f93ab4_1831522.png "屏幕截图.png")
+- 输出代码：
+![输出植物识别](https://images.gitee.com/uploads/images/2019/1216/142501_f5426869_1831522.png "屏幕截图.png")
+
 - ### API的使用比较
 #### 1. 价格比较
 - 百度AI的植物识别<br></br>
