@@ -84,7 +84,7 @@
 - ### 产品中API的调用示例
 #### 1. 短语音识别API流程示意图<br></br>
 ![语音识别](https://github.com/wemching/API_ML_AI/blob/master/image/%E7%9F%AD%E8%AF%AD%E9%9F%B3API.png)
-#### 2. 图像识别API流程示意图
+#### 2. 植物识别API流程示意图
 ![图像识别](https://github.com/wemching/API_ML_AI/blob/master/image/%E5%9B%BE%E5%83%8F%E8%AF%86%E5%88%ABAPI.png)
 #### 3. 图像去雾API流程示意图
 ![图像去雾](https://github.com/wemching/API_ML_AI/blob/master/image/%E5%9B%BE%E5%83%8F%E5%8E%BB%E9%9B%BEAPI.png)
@@ -121,7 +121,7 @@
 
 - 对于价格，百度AI平台的是最便宜的。同时百度植物识别API会提供每日500免费调用额度。
 - 对于种类，百度AI平台细分的识别种类更多，更加专门化、专业化。本产品主打植物识别，更应调用百度AI的植物识别API；同时本产品中调用的百度AI中的图像清晰度加强API，阿里云平台暂时没有的；图像去雾功能为百度AI平台独有的。
-##### 经过团队将三个平台的API调用和API的价格对比，本产品将使用百度AI平台的植物识别、图像去雾和图像清晰度增强API。
+##### 经过团队将三个平台的API调用和API的价格对比，本产品将使用百度AI平台的短语音识别、植物识别、图像去雾和图像清晰度增强API。
 
 
 ---
